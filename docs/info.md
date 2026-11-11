@@ -1,6 +1,4 @@
-<!---
-This file is used to generate your project documentation page. Please keep the format and markdown intact.
--->
+
 
 ## How it works
 
